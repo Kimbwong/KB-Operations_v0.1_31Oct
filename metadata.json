@@ -1,0 +1,6 @@
+{
+  "name": "Kharis Bake Operations Planner",
+  "description": "Operations, bake planning, order administration, and content capture workspace for artisan baker Kharis Bake.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

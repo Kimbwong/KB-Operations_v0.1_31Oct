@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="128" fill="#FAF7F2"/>
+  <circle cx="256" cy="256" r="216" fill="#F0ECE1" stroke="#4A583B" stroke-width="12"/>
+  <!-- Artisan sourdough loaf -->
+  <path d="M128 300 C128 190, 200 150, 256 150 C312 150, 384 190, 384 300 C384 340, 340 360, 256 360 C172 360, 128 340, 128 300 Z" fill="#8C6239" stroke="#4A583B" stroke-width="10"/>
+  <!-- Scoring cuts -->
+  <path d="M180 230 C210 210, 240 210, 260 230" fill="none" stroke="#FAF7F2" stroke-width="12" stroke-linecap="round"/>
+  <path d="M220 270 C250 250, 280 250, 300 270" fill="none" stroke="#FAF7F2" stroke-width="12" stroke-linecap="round"/>
+  <path d="M260 310 C290 290, 320 290, 340 310" fill="none" stroke="#FAF7F2" stroke-width="10" stroke-linecap="round"/>
+  <!-- Wheat sprig accent -->
+  <path d="M256 120 L256 150" stroke="#4A583B" stroke-width="6" stroke-linecap="round"/>
+  <path d="M246 128 C252 122, 256 122, 256 128" stroke="#4A583B" stroke-width="6" fill="none"/>
+  <path d="M266 138 C260 132, 256 132, 256 138" stroke="#4A583B" stroke-width="6" fill="none"/>
+</svg>
